@@ -23,7 +23,7 @@ const Sidebar = ({isOpen , toggle}) => {
                 Team
                 </SidebarLink>
                 <SidebarLink to="teams" onClick={toggle}>
-                services
+                Services
                 </SidebarLink>
             </SidebarMenu>
             <SideBtnWrap>
